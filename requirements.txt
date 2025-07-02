@@ -1,0 +1,35 @@
+# WHY: To fetch real-time, structured web data for your LLM agents.
+# Firecrawl is a web crawling + scraping API that returns clean markdown, HTML, or JSON.
+# Perfect for feeding fresh context into LLMs or agentic workflows.
+
+firecrawl.py
+
+
+# WHY: To power your agent’s reasoning, generation, and decision-making.
+# OpenAI provides LLMs like GPT-4o that can interpret, plan, and generate responses.
+# You can use it for summarization, tool selection, or autonomous task execution.
+
+openai
+
+
+# WHY: To give your agent a voice — literally.
+# ElevenLabs provides ultra-realistic text-to-speech (TTS) and voice cloning.
+# Useful for voice agents, assistants, audiobooks, or accessibility features.
+
+elevenlabs>=0.2.26
+
+
+
+# WHY: To atain agentic behavior — memory, reasoning, tool use, and collaboration.
+# Agno is a full-stack framework for building multi-agent systems with shared memory and tool integration.
+# Ideal for building agents that can plan, reason, and act autonomous.
+
+agno
+
+
+# WHY: To rapidly prototype and deploy interactive user interfaces for your AI agents.
+# Streamlit turns Python scripts into web apps — no frontend skills required.
+# Perfect for visualizing agent behavior, tweaking parameters, and demoing agent pipelines.
+
+streamlit
+
